@@ -1,0 +1,125 @@
+@media only screen and (max-width: 1440px){
+
+    .btn-primary{
+
+        margin-top: -3%;
+    }
+    .title h1{
+        
+        font-size:55px ;
+        
+    }
+    .btn-primary{
+        padding: 10px 30px;
+    }
+    .video{
+        
+        width: 60%;
+    
+    }
+
+    .video h4{
+        
+        margin-top: 0%;
+    }
+
+    .star-icon{
+        background-color: orange;
+        padding: 8px 13px;
+      
+    }
+    .icon-head{
+        width: 60%;
+    }
+
+    .text p{
+        font-family: 'Poppins', sans-serif;
+        font-weight:lighter;
+        color: #000000;
+    }
+/* <!-- >>>>>>>>>>>>>>>>>    Texttt<<<<<<<<<<<<<<<<<<<<<<<< --> */
+    .part2{
+      
+        padding: 0px 12% ;
+       
+      }
+
+      /* <!-- >>>>>>>>>>>>> vacteria section start hereM<<<<<<<<<<<<<<<<<<<<< --> */
+      .vacteria{
+
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10% 12%;
+    }
+
+    
+    .rright{
+        padding-left: 10%;
+        padding-right: 4%;
+        flex-basis: 50%;
+    }
+
+/* <!-- >>>>>>>>>>>>>>>icon 6 section<<<<<<<<<<<<<<< --> */
+
+.icon6 h1{
+    width: 60%; margin: auto;
+}
+
+.para{
+
+  
+    width: 70%;
+  
+
+}
+
+.icon6{
+
+    padding: 10% 10%;
+    
+
+
+}
+
+.cont-ent h1{
+   
+    width: 70%;
+}
+
+.divv-3{
+    padding-bottom: 50px;
+}
+
+/* <!-- <<<<<<<<pricing section>>>>>>>> --> */
+
+.heading h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    width: 50%;
+    margin: auto; 
+}
+.heading p{
+    width: 60%;
+   
+}
+
+.left-pricig{
+
+    margin-right: 30px;
+}
+
+.down-pricing{
+   
+    padding: 40px 55px;
+    
+}
+
+/* <!-- <>>>>>>>>>>>>>> meeet client <<<<<<<<<<<<<<<< --> */
+
+.single-site {
+    flex-basis: 50%;
+    padding-right: 0px;
+}
+}
+

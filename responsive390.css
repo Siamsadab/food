@@ -1,0 +1,684 @@
+
+@media only screen and (max-width: 678px){
+
+    .bar{
+        display: inline-block;
+        flex-basis: 10%;
+    }
+
+    .nav-area{
+        display: none;
+        background-color: aqua;
+    }
+    .button{
+        display: none;
+    }
+    .sm-head p{
+        
+        font-size: 10px;
+        color: rgb(14, 0, 0);
+         
+     }
+     .icon-head{
+       
+        width: 70%;
+        
+       
+    }
+
+    .star-icon img{
+        width: 16px;
+    }
+    .star-icon{
+       
+        padding: 0px 7px;
+        
+    }
+
+    .title h1{
+        
+        font-size:20px ;
+        padding: 15px 0px;
+        padding-bottom: 10px;
+       
+    }
+    .title p{
+       
+        font-size:8px ;
+        padding-bottom: 20px;
+        
+    }
+
+    .title p{
+        
+    
+    }
+
+    .video{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 75%;
+        padding-bottom: 0%;
+    
+    }
+
+    .btn-primary{
+        padding: 5px 15px;
+       font-size: 10px;
+}
+.video h4{
+    font-size: 10px;
+}
+
+.banner{
+    background-color: rgba(250, 235, 215, 0);
+
+}
+
+/* <!-- <<<<<<<<<<<<<trusted section start <<<<<<<<<<<<<<<<<<<<<<<< --> */
+.trusted{
+
+    text-align: center;
+    padding: 7% 0%;
+
+}
+
+.all-logo{
+    
+    width: 100%;
+    
+
+}
+
+.trusted h4{
+    
+    font-size:10px;
+    
+
+}
+/* <!-- <<<<<<<<<<<<<Awsome app section start <<<<<<<<<<<<<<<<<<<<<<<< --> */
+
+.Awsome{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 4% 6%;
+    background-color: #684efb00;
+}
+
+.phone{
+    flex-basis: 10%;
+    width: 70%;
+    background-color: #684efb00;
+    margin-top: 7%;
+   
+}
+
+.phonee{
+    position: absolute;
+    top:-60px;
+    left: 50px;
+}
+
+.cont{
+
+    width: 90%;
+   background-color: #684efb00;
+   padding-right: 0%;
+   margin: auto;
+  
+  
+}
+
+.titlee h1{
+    
+    font-size:20px;
+    text-align: center;
+    margin: auto;
+    
+  
+}
+
+.titlee p{
+    
+    font-size: 10px;
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    padding-bottom: 30px;
+    
+
+}
+
+.text h3{
+    font-size: 12px;
+}
+
+.text p{
+    font-size: 10px; 
+    width: 100%;
+}
+
+.text2 h3{
+    font-size: 12px;
+}
+
+.text2 p{
+    font-size: 10px; 
+    width: 100%;
+}
+
+.text3 h3{
+    font-size: 12px;
+}
+
+.text3 p{
+    font-size: 10px; 
+    width: 100%;
+}
+
+.feature{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(68, 46, 16, 0);
+    justify-content: center;
+    align-items: center;
+    padding: 0px 10%;
+}
+
+.div1{
+  padding-bottom: 30px;
+}
+
+.text{
+   
+background-color: rgba(124, 80, 22, 0);
+}
+/* <!-- >>>>>>>>>>>>>>>>>    Texttt<<<<<<<<<<<<<<<<<<<<<<<< --> */
+.part2{
+    
+    padding: 40px 5% ;
+   flex-direction: column;
+  
+  }
+
+  .lefft h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+}
+.lefft{
+    padding-right: 5%;
+}
+.rigght p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+}
+
+.border{
+    display: none;
+}
+
+.lefft{
+   width: 75%;
+   margin: auto;
+   padding-right: 0%;
+}
+
+.lefft h1{
+  padding-bottom: 20px;
+}
+
+.rigght{
+    
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    padding-left: 0px;
+
+}
+
+/* <!-- >>>>>>>>>>>>> vacteria section start hereM<<<<<<<<<<<<<<<<<<<<< --> */
+
+.vacteria{
+  flex-direction: column;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 0px 20%;
+   
+}
+
+.cmndiv{
+
+    padding-bottom: 30px;
+}
+
+.cmndiv2{
+
+    padding-bottom: 30px;
+}
+
+.cmndiv3{
+
+    padding-bottom: 30px;
+}
+
+.cmndiv img{
+    width: 80px;
+    padding: 15px;
+}
+
+.cmndiv h3{
+    
+    font-size: 12px;
+    
+}
+
+.cmndiv p{
+   font-size: 10px;
+    
+}
+
+.cmndiv2 img{
+    width: 80px;
+    padding: 15px;
+}
+
+.cmndiv2 h3{
+    
+    font-size: 12px;
+    
+}
+
+.cmndiv2 p{
+   font-size: 10px;
+    
+}
+.cmndiv3 img{
+    width: 80px;
+    padding: 15px;
+}
+
+.cmndiv3 h3{
+    
+    font-size: 12px;
+    
+}
+
+.cmndiv3 p{
+   font-size: 10px;
+    
+}
+
+/* <<<<<<<<<<<beda start here <<<<<<<<<<<<<<<<<<<< */
+.beda{
+
+   flex-direction: column;
+   padding: 50px 20%;
+   text-align: center;
+}
+
+.rright h1{
+   font-size: 20px;
+   padding-top: 20px;
+}
+
+.rright p{
+    font-size: 10px;
+}
+/* <!-- >>>>>>>>>>>>>>>icon 6 section<<<<<<<<<<<<<<< --> */
+
+.icon6 h1{
+  width: 50%; margin: auto;
+  font-size: 20px;
+}
+
+
+.para{
+
+   font-size: 10px;
+
+}
+
+.icoon1 img{
+    width: 75px;
+    padding: 15px;
+  
+}
+
+.icoon2 img{
+    width: 75px;
+    padding: 15px;
+  
+}
+
+.icoon2 img{
+    width: 75px;
+    padding: 15px;
+}
+
+.icoon1 h3{
+   
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+}
+
+.icoon1 p{
+   
+   font-size: 10px;
+   width: 60%;
+   margin: auto;
+   padding-bottom: 60px;
+    
+}
+
+.icoon2 h3{
+   
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+}
+
+.icoon2 p{
+   
+   font-size: 10px;
+   width: 60%;
+   margin: auto;
+   padding-bottom: 60px;
+    
+}
+
+.icoon3 h3{
+   
+    font-size: 12px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+}
+
+.icoon3 p{
+   
+   font-size: 10px;
+   width: 60%;
+   margin: auto;
+   padding-bottom: 60px;
+    
+}
+
+.icon6{
+
+    padding: 10% 4%;
+    text-align: center;
+
+
+}
+
+.upicon{
+    flex-direction: column;
+}
+
+.downicon{
+    flex-direction: column;
+}
+/* <!-- <<<<<<<<<<<<<ultimate feature start hw>>>>>>>>>>>>>> --> */
+
+.ultimate{
+    padding: 0px 10%;
+    flex-direction: column;
+    
+}
+
+.cont-ent h1{
+    
+    width: 80%;
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(250, 235, 215, 0);
+}
+.cont-ent p{
+    font-size: 10px;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+}
+
+.iccon1 img{
+
+    width: 75px;
+}
+
+.iccon2 img{
+
+    width: 75px;
+}
+
+.iccon1 h3{
+    font-size: 12px;
+}
+
+.iccon1 p{
+    font-size: 10px;
+}
+
+
+.iccon2 h3{
+    font-size: 12px;
+}
+
+.iccon2 p{
+    font-size: 10px;
+}
+
+.iccon2 p{
+
+    font-family: 'Poppins', sans-serif;
+    padding-right: 10%;
+}
+
+.iccon1 p{
+
+    font-family: 'Poppins', sans-serif;
+    padding-right: 10%;
+}
+
+.rightt-div{
+    margin-top: 15%;
+    width: 80%;
+}
+/* <!-- <<<<<<<<pricing section>>>>>>>> --> */
+
+.heading h1{
+
+
+    font-size: 20px;
+    margin-top: 10%;
+}
+
+.heading p{
+    font-size: 10px;
+}
+
+
+.btns{
+    padding: 7px 25px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+  
+   
+  
+   
+}
+.btns2{
+    padding: 7px 25px;
+   
+    font-size: 10px;
+    
+    
+}
+
+.btns2:hover{
+    padding: 7px 25px;
+   
+    font-size: 10px;
+    
+}
+
+.btnn-divvv{
+
+    margin-top: 8%;
+}
+
+.up-pricing h1{
+
+    font-size: 20px;
+}
+
+.up-pricing h4{
+    font-size: 14px;
+}
+
+.up-pricing h6{
+    font-size: 11px;
+}
+
+.down-pricing{
+    font-size: 10px;
+}
+.down-pricing{
+    background-color: #ffffff;
+    padding: 20px 40px;
+  
+    
+}
+
+.box{
+    width: 90%;
+   
+}
+
+.btns{
+    padding: 7px 20px;
+   
+
+
+
+}
+
+/* <!-- <>>>>>>>>>>>>>> meeet client <<<<<<<<<<<<<<<< --> */
+
+.meet-client{
+
+flex-direction: column;
+
+}
+
+.single-site{
+ width: 80%;
+ margin: auto;
+ text-align: center;
+}
+
+.single-site h1{
+    margin: auto;
+    margin-top: 15%;
+    font-size: 20px;
+    width: 70%;
+    padding-bottom: 5%;
+ 
+}
+
+.single-site p{
+    text-align: center;
+    font-size: 10px;
+
+    
+}
+
+.single-site p{
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 3%;
+    width: 72%;
+    margin: auto;
+}
+
+.image-div{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #242f5100;
+    margin-top: 15px;
+}
+  
+
+
+
+.titles h4{
+   
+    font-size: 12px;
+    width: 100%;
+}
+
+.titles p{
+   
+    font-size: 10px;
+    width: 100%;
+    margin-left: -5px;
+}
+
+.icon-divv h3{
+     width: 50%;
+    margin-top: 30px;
+    font-size: 20px;
+} 
+
+.smile  img{
+    width: 50px;
+}
+
+.question h1{
+    font-size: 20px;
+}
+
+.question  p{
+    font-size: 10px;
+}
+
+.single-div h3{
+    font-size: 20px;
+}
+.left-box h1{
+    font-size: 20px;
+}
+
+.left-box p{
+    font-size: 10px;
+}
+
+
+.footer-nav ul li a{
+    
+    font-size: 12px;
+  
+}
+
+.cont-ent h1{
+width: 50%;
+margin: auto;
+
+}
+
+.group-site {
+   width: 70%;
+}
+
+
+}

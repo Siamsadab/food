@@ -1,0 +1,120 @@
+
+@media only screen and (max-width: 414px){
+
+    .sm-head p{
+        
+        font-size: 10px;
+        color: rgb(27, 0, 0);
+         
+     }
+
+     .icon-head {
+        width: 90%;
+    }
+
+    .video{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 95%;
+    
+    }
+
+    .phonee{
+        position: absolute;
+        top:-30px;
+        left: 40px;
+    }
+
+    .lefft h1 {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+
+    .cont-ent h1 {
+        width: 70%;
+        margin: auto;
+    }
+
+    .heading h1 {
+        width: 70%;
+        font-size: 30px;
+    }
+
+    .box{
+
+        width: 90%;
+
+    }
+
+    .left-pricig {
+        margin-bottom: 20px;
+    }
+
+    .box {
+        width: 50%;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding-bottom: 80px;
+    }
+
+    .box {
+        width: 70%;
+    }
+
+    .single-site h1 {
+        margin: auto;
+        margin-top: 15%;
+        font-size: 20px;
+        width: 90%;
+        padding-bottom: 5%;
+    }
+
+    .left-pricig {
+        margin-right: 0px;
+    }
+
+    .footer-nav  ul {
+        margin: 0px;
+    }
+
+    ol, ul {
+        padding-left: 0rem;
+    }
+
+
+.nava ul :first-child{
+    color: red;
+    text-decoration: none;
+    list-style-type: none;
+
+}
+
+.sp{
+    padding-left: 60px;
+    margin-left: 0px;
+}
+
+.heading h1 {
+    width: 100%;
+    font-size: 20px;
+}
+
+.heading h1 {
+    width: 90%;
+    font-size: 25px;
+}
+
+.btns {
+    padding: 7px 20px;
+    margin-bottom: 0px;
+}
+
+}
+
+
+
+    
+

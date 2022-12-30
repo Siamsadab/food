@@ -1,0 +1,55 @@
+
+@media only screen and (max-width: 1680px){
+
+    .btn-primary{
+
+        margin-top: -3%;
+    }
+    .title h1{
+        
+        font-size:60px ;
+        
+    }
+    .btn-primary{
+        padding: 10px 30px;
+    }
+    .video{
+        
+        width: 50%;
+    
+    }
+
+    .video h4{
+        
+        margin-top: 0%;
+    }
+
+    .star-icon{
+        background-color: orange;
+        padding: 8px 13px;
+      
+    }
+
+    /* <!-- <<<<<<<<<<<<<Awsome app section start <<<<<<<<<<<<<<<<<<<<<<<< --> */
+    .div1{
+        padding: 8% 0px;
+    }
+
+    .cont{
+        width: 40%;
+       padding-right: 16%;
+    }
+
+    .part2{
+      
+        padding: 0px 15% ;
+       
+      }
+
+      .rright{
+        padding-left: 10%;
+        padding-right: 8%;
+        flex-basis: 50%;
+    }
+
+}
